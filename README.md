@@ -6,6 +6,8 @@ if any query search github as 'Retr0-XD'
 
 my socials:
  instagram:https://instagram.com/invincible_inverse
+ 
+ 
  github:https://github.com/Retr0-XD
  
  

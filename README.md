@@ -11,7 +11,7 @@
 
 - 📝 let's get connected here's my linkedin: [https://www.linkedin.com/in/sakthi-harish-491489148/](https://www.linkedin.com/in/sakthi-harish-491489148/)
 
-- 💬 Ask me about **react, nodejs, python3, bash, mongodb, C#, Java , tensorflow**
+- 💬 Ask me about **react, nodejs, python3, bash, mongodb, C#, Java , tensorflow, solidity**
 
 - 📫 How to reach me **retr0secanddev@gmail.com**
 

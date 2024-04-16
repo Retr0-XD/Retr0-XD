@@ -39,6 +39,8 @@
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.gaybo.com/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" alt="sqlite" width="40" height="40"/> </a>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/retr0sec?theme=dark&font=Noto%20Sans%20Limbu&ext=heatmap)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Retr0-XD&show_icons=true&locale=en&" alt="retr0-xd" /></p>
 

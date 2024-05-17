@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK and keras py**
 
-- 👨‍💻 Check out my website  [https://retr0-sec.netlify.app](https://retr0-sec.netlify.app)
+- 👨‍💻 Check out my website  [https://retr0-sec.netlify.app](https://retr0xd.vercel.app/)
 
 - 📝 let's get connected here's my linkedin: [https://www.linkedin.com/in/sakthi-harish-491489148/](https://www.linkedin.com/in/sakthi-harish-491489148/)
 
